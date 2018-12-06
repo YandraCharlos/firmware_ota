@@ -1,1 +1,1 @@
-VERSION=01.02.01
+PSP_Firmware-01.02.01-20181206.bin
