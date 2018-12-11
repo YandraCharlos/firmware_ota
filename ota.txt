@@ -1,1 +1,1 @@
-PSP_Firmware-01.02.01-20181206.bin
+PSP_Firmware-02.02.01-20181206.bin
